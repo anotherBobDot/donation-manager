@@ -4,6 +4,8 @@ REST API for managing shelter donations — registration, distribution tracking,
 
 Built with **Node.js**, **TypeScript**, and **Express**.
 
+> Made by **Roman Storm** for [Digital Aid Seattle](https://digitalaidseattle.org) volunteer application.
+
 ## Features
 
 - **Donation Registration** — Record donations with donor name, type, quantity, and date
